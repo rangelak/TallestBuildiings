@@ -1,0 +1,24 @@
+.building-label {
+    text-anchor: end;
+    font-size: 11pt;
+}
+
+.building-label:hover {
+    fill: rgb(139, 0, 0) !important;
+}
+
+.height-label {
+    text-anchor: start;
+    font-size: 11pt;
+    fill: white;
+}
+
+.building-stats {
+    font-size: 13pt;
+    font-family: Lato;
+    color: gray;
+}
+
+rect:hover {
+    fill: rgb(139, 0, 0) !important;
+}
